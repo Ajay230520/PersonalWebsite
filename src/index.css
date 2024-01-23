@@ -1,0 +1,12 @@
+@import "./vars.css"; 
+*{
+  box-sizing: border-box;
+  margin:0;
+
+  /* padding: 5px; */
+  font-family:"Outfit",Arial,Helvetica,sans-serif ;
+  /* border: 1px solid var(--color-text) */
+}
+html{
+  scroll-behavior: smooth;
+}
