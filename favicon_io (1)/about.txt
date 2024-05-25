@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Shippori Antique B1
+- Font Author: Copyright 2020 The Shippori Antique Project Authors (https://github.com/fontdasu/ShipporiAntique)
+- Font Source: http://fonts.gstatic.com/s/shipporiantiqueb1/v8/2Eb7L_JwClR7Zl_UAKZ0mUHw3oMKd40grRFCj9-5Y8Y.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))

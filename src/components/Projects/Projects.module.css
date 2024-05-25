@@ -1,0 +1,85 @@
+@import "../../vars.css";
+
+*{
+    color: var(--color-text);
+}
+li{
+    list-style: none;
+}
+.container{
+    margin-top: 54px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.title{
+    color: var(--color-text);
+}
+.projects{
+    margin-top: 30px;
+    margin-bottom: 80px;
+    display: 
+    flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    
+}
+.project{
+    min-width: 100px;
+    max-width: 350px;
+    background-color: var(--color-secondary);
+    padding: 20px;
+    border-radius: 10px;
+}
+.project img{
+    min-width: 90px;
+    max-width: 100%;
+}
+.skills{
+    display: flex;
+  justify-content: space-between;
+
+   margin: 0;
+   padding: 0;
+}
+
+
+.skill{
+    padding: 5px 7px;
+    background-color: var(--color-secondary);
+    border-radius: 20px;
+}
+.btns{
+    display: flex;
+justify-content: space-around;
+}
+
+.btn{
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: var(--color-primary);
+    color: white;
+    font-weight: 600;
+}
+@media  screen and (max-width:950px) {
+    
+    .projects{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width:400px){
+    
+    .container{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    .projects{
+        
+    }
+
+}
